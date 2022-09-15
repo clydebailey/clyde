@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: clyde
+  annotations:
+    github.com/project-slug: clydebailey/clyde
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
